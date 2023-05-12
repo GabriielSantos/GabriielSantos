@@ -1,25 +1,31 @@
 ```js
-const name = 'Gabriel Santos';
-const age = 27;
-const degree = 'Web Developer.Jr'
+import Developer from 'GabriielSantos';
 
-const status = 
-{ 
-  educationalInstitutions: ['Trybe', 'FEPI - Itajubá'],
-  work: {
-    company: 'Looking for...',
-    office: 'Web Developer.Jr',
-  },
-  interests: ['Web applications', 'Web3', 'Investments'],
+
+class AboutMe extends Developer {
+  { 
+    name: 'Gabriel Santos',
+    age: 27,
+    degree: 'Web Developer.Jr',
+    educationalInstitutions: ['Trybe'],
+    work: {
+      company: 'Looking for...',
+      office: 'Web Developer.Jr',
+    },
+    interests: ['Web applications', 'Web3', 'Investments'],
+  }
 };
 
-const skills = 
-{
-  languages :['Javascript', 'VBA Excel'],
-  design: ['CSS', 'Figma'],
-  frameworks:['Bootstrap', 'React', 'Jest'],
-  platforms :['Linux', 'Git', 'VS Code', 'Microsoft Office'],
-}
+
+class Skills extends Developer {
+  {
+    languages: ['Javascript', 'HTML', 'CSS'],
+    bibliotecas: ['React.js', 'React Router', 'React Hooks', 'Context API', 'Node.js', 'Redux'],
+    frameworks: ['Bootstrap', 'Jest'],
+    platforms: ['Linux', 'Git', 'VS Code', 'Microsoft Office'],
+  }
+};
+
 
 ```
 
