@@ -12,7 +12,7 @@ class AboutMe extends Developer {
       company: 'Looking for...',
       office: 'Web Developer.Jr',
     },
-    interests: ['Web applications', 'Web3', 'Investments'],
+    interests: ['Web applications'],
   }
 };
 
