@@ -20,7 +20,7 @@ class AboutMe extends Developer {
 class Skills extends Developer {
   {
     languages: ['Javascript', 'HTML', 'CSS'],
-    bibliotecas: ['React.js', 'React Router', 'React Hooks', 'Context API', 'Node.js', 'Redux'],
+    libraries: ['React.js', 'React Router', 'React Hooks', 'Context API', 'Node.js', 'Redux'],
     frameworks: ['Bootstrap', 'Jest'],
     platforms: ['Linux', 'Git', 'VS Code', 'Microsoft Office'],
   }
