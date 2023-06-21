@@ -57,6 +57,10 @@ class Skills extends Developer {
   <tbody>
     <tr valign="top">
       <td width="80px" align="center">
+        <span><strong>React</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+      </td>
+      <td width="80px" align="center">
         <span><strong>Javascript</strong></span><br>
         <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
       </td>
@@ -68,10 +72,6 @@ class Skills extends Developer {
         <span><strong>CSS</strong></span><br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
       </td>
-      <td width="80px" align="center">
-        <span><strong>React</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-      </td>
     </tr>
     <tr valign="top">
       <td width="80px" align="center">
@@ -79,16 +79,16 @@ class Skills extends Developer {
         <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
       </td>
       <td width="80px" align="center">
-        <span><strong>ESLint</strong></span><br>
-        <img height="32px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">
+        <span><strong>RTL</strong></span><br>
+        <img height="32" src="https://testing-library.com/img/octopus-128x128.png">
       </td>
       <td width="80px" align="center">
         <span><strong>Redux</strong></span><br>
         <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
       </td>
       <td width="80px" align="center">
-        <span><strong>Web 3</strong></span><br>
-        <img height="32px" src="https://seeklogo.com/images/W/web3-logo-03377DB11E-seeklogo.com.png">
+        <span><strong>ESLint</strong></span><br>
+        <img height="32px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">
       </td>
     </tr>
     <tr valign="top">
@@ -114,18 +114,18 @@ class Skills extends Developer {
         <span><strong>NPM</strong></span><br>
         <img height="32px" src="https://cdn.cdnlogo.com/logos/n/45/npm.svg">
       </td>
-      <td width="80px" align="center">
-        <span><strong>Office</strong></span><br>
-        <img height="28px" src="https://cdn.cdnlogo.com/logos/m/48/microsoft-office-2013-and-wordmark.svg">
-      </td>
-      <td width="80px" align="center">
-        <span><strong>Excel</strong></span><br>
-        <img height="38px" src="https://cdn.cdnlogo.com/logos/m/53/microsoft-excel.svg">
-      </td>
-      <td width="80px" align="center">
+        <td width="80px" align="center">
         <span><strong>Figma</strong></span><br>
         <img height="32px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
       </td>
+      <td width="80px" align="center">
+        <span><strong>Trello</strong></span><br>
+        <img height="32px" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Web 3</strong></span><br>
+        <img height="32px" src="https://seeklogo.com/images/W/web3-logo-03377DB11E-seeklogo.com.png">
+      </td>  
     </tr>
   </tbody>
 </table>
