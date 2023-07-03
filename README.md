@@ -6,11 +6,11 @@ class AboutMe extends Developer {
   { 
     name: 'Gabriel Santos',
     age: 27,
-    degree: 'Web Developer.Jr',
+    degree: 'Web Developer Jr.',
     educationalInstitutions: ['Trybe'],
     work: {
       company: 'Looking for...',
-      office: 'Web Developer.Jr',
+      office: 'Web Developer Jr.',
     },
     interests: ['Web applications'],
   }
